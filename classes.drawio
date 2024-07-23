@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T14:32:32.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="RnSoKuJCWSzattjEGQ9j" version="24.7.1" type="device">
+<mxfile host="app.diagrams.net" modified="2024-07-23T14:03:47.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="E0F2QSFPzHYFC3yrb-_O" version="24.7.1" type="device">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1037" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -292,7 +292,7 @@
         <mxCell id="s5fx1da-ghv4TUkBevg5-48" value="&amp;nbsp;-Produto" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="s5fx1da-ghv4TUkBevg5-46" vertex="1">
           <mxGeometry y="52" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s5fx1da-ghv4TUkBevg5-49" value="&amp;nbsp;-Quantidade" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="s5fx1da-ghv4TUkBevg5-46" vertex="1">
+        <mxCell id="s5fx1da-ghv4TUkBevg5-49" value="&amp;nbsp;-ID_Quantidade" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="s5fx1da-ghv4TUkBevg5-46" vertex="1">
           <mxGeometry y="82" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5fx1da-ghv4TUkBevg5-59" value="&amp;nbsp;-Entrada" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="s5fx1da-ghv4TUkBevg5-46" vertex="1">
@@ -391,7 +391,7 @@
           <mxGeometry y="442" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s5fx1da-ghv4TUkBevg5-92" value="Pedido" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1330" y="130" width="160" height="652" as="geometry">
+          <mxGeometry x="1330" y="140" width="160" height="652" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
